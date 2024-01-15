@@ -1,8 +1,16 @@
-# React + Vite
+# Talon Inmobiliaria Directa
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción
+Talon Inmobiliaria Directa es una plataforma que conecta directamente a personas interesadas en comprar o vender propiedades, eliminando intermediarios.
 
-Currently, two official plugins are available:
+## Características Principales
+- **Publicaciones de Propiedades:** Los usuarios pueden crear y gestionar fácilmente publicaciones de propiedades.
+- **Búsqueda Avanzada:** Potente motor de búsqueda para encontrar propiedades según criterios específicos.
+- **Chat Integrado:** Comunicación directa entre compradores y vendedores a través de un sistema de chat integrado.
+- **Monetización con Google AdSense:** Genera ingresos mediante la integración de anuncios de Google AdSense.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías Utilizadas
+- **Frontend:** React.js
+- **Backend:** Firebase (Firestore, Authentication)
+- **Monetización:** Google AdSense
+- **Otros:** (Incluye cualquier otra tecnología que estés utilizando)
