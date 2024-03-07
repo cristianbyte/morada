@@ -1,7 +1,9 @@
-# Talon Inmobiliaria Directa
+# Morada 
+
+<img alt="desktop preview" title="Morada Home" style="border-radius: .5rem;width : 80%;" src="./public/images/previewDesktop.webp">
 
 ## Descripción
-Talon Inmobiliaria Directa es una plataforma que conecta directamente a personas interesadas en comprar o vender propiedades, eliminando intermediarios.
+Morada Inmobiliaria Directa es una plataforma que conecta directamente a personas interesadas en comprar o vender propiedades, eliminando intermediarios.
 
 ## Características Principales
 - **Publicaciones de Propiedades:** Los usuarios pueden crear y gestionar fácilmente publicaciones de propiedades.
