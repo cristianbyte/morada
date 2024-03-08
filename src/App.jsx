@@ -1,10 +1,13 @@
-function App() {
+import Menu from './components/menu'
+import './reset.css'
+
+export default function App() {
 
   return (
     <>
-      <h1>Morada</h1>
+      <Menu/>
     </>
   )
 }
 
-export default App
+

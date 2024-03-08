@@ -1,0 +1,18 @@
+.nav{
+  display: flex;
+  height: 10vh;
+  width: 100vw;
+  background-color: var(--white);
+}
+
+.nav__logoHome{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: wir;
+  font-weight: bolder;
+  height: 100%;
+  color: var(--cyclamen);
+  width: 15vw;
+  font-size: 2rem;
+}
